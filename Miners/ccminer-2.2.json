@@ -14,7 +14,8 @@
                 {"Tribus":"-a tribus"},
                 {"blake14r":"-a decred"},
                 {"bitcore":"-a bitcore"},
-                {"cryptonight":"-a cryptonight"}
+                {"cryptonight":"-a cryptonight"},
+                {"lyra2z" : "-a lyra2z" },
               ]
 
 }
